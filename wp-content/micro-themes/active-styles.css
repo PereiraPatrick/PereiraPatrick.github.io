@@ -1,0 +1,92 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Conteúdo ================= */
+
+/** Conteúdo >> Head script (#2) **/
+head script:nth-of-type(2) {
+	font-family: Google fonte...josefin sans !important;
+	color: rgb(190, 107, 107) !important;
+	width: 279px !important;
+}
+
+/** Conteúdo >> preço cardápio home **/
+#post-8 .cardapiohome .uagb-rm__price {
+	font-size: 25px !important;
+	width: 106px !important;
+	min-width: 0 !important;
+	max-width: 114px !important;
+	height: 116px !important;
+	max-height: 115px !important;
+	padding-top: 0 !important;
+	padding-right: 13px !important;
+	margin-top: 4px !important;
+	margin-right: 1px !important;
+	margin-left: -44px !important;
+}
+
+/** Conteúdo >> Rotulo Formulario **/
+.page label {
+	color: rgb(0, 0, 0) !important;
+}
+
+/** Conteúdo >> rotulo-formulario-descricao **/
+.wpforms-field > div {
+	color: rgb(7, 7, 7) !important;
+}
+
+/** Conteúdo >> Icone Noticia **/
+.iconnoticia .uagb-ifb-image-content .uagb-ifb-img-src {
+	padding-right: 0 !important;
+	margin-top: 58px !important;
+}
+
+/** Conteúdo >> Icone Menu **/
+.iconmenu.is-resized img {
+	padding-top: 0 !important;
+	margin-top: -82px !important;
+}
+
+/** Conteúdo >> Uagb infobox icon below title uagb ifb desc **/
+.uagb-infobox-icon-below-title .uagb-ifb-desc {
+	padding-top: 43px !important;
+}
+
+/** Conteúdo >> Bem vindo home **/
+.bemvindohome.uagb-block-04db0c58 .uagb-ifb-title {
+	padding-bottom: 60px !important;
+	margin-top: -95px !important;
+}
+
+/** Conteúdo >> Uagb block 04db0c58 uagb ifb desc **/
+.uagb-block-04db0c58 .uagb-ifb-desc {
+	padding-top: 5px !important;
+	padding-right: 0 !important;
+}
+
+
+/*= Rodapé =================== */
+
+/** Rodapé >> Barra de Rodapé **/
+#colophon > .ast-builder-grid-row-tablet-full {
+	min-height: 0 !important;
+	box-sizing: border-box !important;
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+}
+
+
+/*( Celular )*/
+@media (max-width: 480px) {
+
+	/*= Conteúdo ================= */
+
+	/** Conteúdo >> Bem-vindo Especial **/
+	.uagb-infobox-has-icon h2 {
+	font-size: 45px !important;
+	line-height: 70px !important;
+}
+
+
+}
+

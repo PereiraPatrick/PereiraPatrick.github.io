@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pratos executivos &#8211; Fresco</title>
+	<atom:link href="/tag/pratos-executivos/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Comida italiana</description>
+	<lastBuildDate>Tue, 23 Nov 2021 21:57:44 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<item>
+		<title>Almoço Executivo</title>
+		<link>/almoco-executivo.html</link>
+		
+		<dc:creator><![CDATA[cursoemvideo]]></dc:creator>
+		<pubDate>Tue, 23 Nov 2021 18:48:50 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Peixes]]></category>
+		<category><![CDATA[Pratos executivos]]></category>
+		<category><![CDATA[Saladas]]></category>
+		<guid isPermaLink="false">/?p=270</guid>
+
+					<description><![CDATA[Conheça mais sobre nosso deliciosos almoço executivo disponivel de segunda a sexta das 11h às 15h]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap has-ast-global-color-2-color has-text-color"><a href="https://en.wikipedia.org/wiki/WebAssembly">WebAssembly</a>, supported by all the major browsers (i.e. from the major vendors Google, Apple, Mozilla and Microsoft), is the only alternative to JavaScript for running code in web browsers (without the help of plug-ins, such as&nbsp;<a href="https://en.wikipedia.org/wiki/Adobe_Flash">Flash</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Java_(software_platform)">Java</a>&nbsp;or&nbsp;<a href="https://en.wikipedia.org/wiki/Silverlight">Silverlight</a>; all being discontinued, as browsers are dropping plug-in support). Prior to its adoption, there was&nbsp;<a href="https://en.wikipedia.org/wiki/Asm.js">asm.js</a>&nbsp;(a subset of JavaScript; and thus strictly works in all browsers), that&#8217;s also used as a compiler target with efficient support in browsers such as&nbsp;<a href="https://en.wikipedia.org/wiki/Internet_Explorer_11">Internet Explorer 11</a>; and for such browsers that do not support WebAssembly directly, it can be compiled to asm.js and those browsers supported that way. Generally speaking programmers do not program in WebAssembly (or asm.js) directly, but use languages such as Rust, C or C++ or in theory any language, that compile to it.</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/11/avocado-barbecue-cooked-725991-300x214-1.jpg"><img width="300" height="214" src="/wp-content/uploads/2021/11/avocado-barbecue-cooked-725991-300x214-1.jpg" alt="" data-id="271" data-full-url="/wp-content/uploads/2021/11/avocado-barbecue-cooked-725991-300x214-1.jpg" data-link="/?attachment_id=271" class="wp-image-271"/></a><figcaption class="blocks-gallery-item__caption">Melhores Peixes</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/11/basil-blur-cheese-1279330-300x200-1.jpg"><img width="300" height="200" src="/wp-content/uploads/2021/11/basil-blur-cheese-1279330-300x200-1.jpg" alt="" data-id="273" data-full-url="/wp-content/uploads/2021/11/basil-blur-cheese-1279330-300x200-1.jpg" data-link="/?attachment_id=273" class="wp-image-273"/></a><figcaption class="blocks-gallery-item__caption">Cozinha de primeira</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/11/pizzaria-hero-fundo02.jpg"><img width="1920" height="1280" src="/wp-content/uploads/2021/11/pizzaria-hero-fundo02.jpg" alt="temperos" data-id="151" data-full-url="/wp-content/uploads/2021/11/pizzaria-hero-fundo02.jpg" data-link="/home/pizzaria-hero-fundo02/" class="wp-image-151"/></a><figcaption class="blocks-gallery-item__caption">temperos de qualidade</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2021/11/nova-1.jpg"><img width="7490" height="4996" src="/wp-content/uploads/2021/11/nova-1.jpg" alt="" data-id="275" data-full-url="/wp-content/uploads/2021/11/nova-1.jpg" data-link="/?attachment_id=275" class="wp-image-275"/></a><figcaption class="blocks-gallery-item__caption">excelentes massas</figcaption></figure></li></ul></figure>
+
+
+
+<p class="has-text-align-left has-ast-global-color-8-color has-ast-global-color-5-background-color has-text-color has-background"> WebAssembly, supported by all the major browsers (i.e. from the major vendors Google, Apple, Mozilla and Microsoft), is the only alternative to JavaScript for running code in web browsers (without the help of plug-ins, such as&nbsp;Flash,&nbsp;Java&nbsp;or&nbsp;Silverlight; all being discontinued, as browsers are dropping plug-in support). Prior to its adoption, there was&nbsp;asm.js&nbsp;(a subset of JavaScript; and thus strictly works in all browsers), that&#8217;s also used as a compiler target with efficient support in browsers such as&nbsp;Internet Explorer 11; and for such browsers that do not support WebAssembly directly, it can be compiled to asm.js and those browsers supported that way. Generally speaking programmers do not program in WebAssembly (or asm.js) directly, but use languages such as Rust, C or C++ or in theory any language, that compile to it. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
